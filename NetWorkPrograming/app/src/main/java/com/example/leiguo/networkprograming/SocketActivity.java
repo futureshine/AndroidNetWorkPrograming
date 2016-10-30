@@ -19,7 +19,7 @@ public class SocketActivity extends AppCompatActivity {
     private Button mButton;
     private Handler handler;
     private String line;
-
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
